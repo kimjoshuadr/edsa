@@ -1,3 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://edsa.com/sitemap.xml
+
+# Specific bot permissions
 User-agent: Googlebot
 Allow: /
 
@@ -10,5 +17,6 @@ Allow: /
 User-agent: facebookexternalhit
 Allow: /
 
-User-agent: *
-Allow: /
+# SEO optimization for $EDSA token
+# Fighting corruption in the Philippines
+# September 21 revolution movement

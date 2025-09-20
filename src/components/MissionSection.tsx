@@ -109,8 +109,8 @@ const MissionSection = () => {
             ref={subtitleRef}
             className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto"
           >
-            $EDSA is a meme coin representing the fight against corruption in
-            the Philippines, powered by the people for the people.
+            $EDSA is a token representing the fight against corruption in the
+            Philippines, powered by the people for the people.
           </p>
         </div>
 

@@ -64,8 +64,8 @@ const Footer = () => {
             $EDSA
           </h3>
           <p className="text-primary-foreground/90 mb-6 max-w-2xl mx-auto">
-            A meme coin for the revolution against corruption in the
-            Philippines. Together, we fight for transparency and justice.
+            A token for the revolution against corruption in the Philippines.
+            Together, we fight for transparency and justice.
           </p>
           <div className="flex justify-center">
             {socialLinks.map((social, index) => {
